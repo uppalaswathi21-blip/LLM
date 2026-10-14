@@ -1,0 +1,6 @@
+Company Training Policy
+
+Employees may attend approved technical training programs.
+Employees must obtain manager approval before enrolling in a training program.
+Training requests should include the course name, business reason, and expected duration.
+The Learning and Development team maintains the list of approved training programs.
